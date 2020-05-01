@@ -74,6 +74,110 @@ class PermissionsTableSeeder extends Seeder
             ],
             [
                 'id'    => '17',
+                'title' => 'expense_management_access',
+            ],
+            [
+                'id'    => '18',
+                'title' => 'expense_category_create',
+            ],
+            [
+                'id'    => '19',
+                'title' => 'expense_category_edit',
+            ],
+            [
+                'id'    => '20',
+                'title' => 'expense_category_show',
+            ],
+            [
+                'id'    => '21',
+                'title' => 'expense_category_delete',
+            ],
+            [
+                'id'    => '22',
+                'title' => 'expense_category_access',
+            ],
+            [
+                'id'    => '23',
+                'title' => 'income_category_create',
+            ],
+            [
+                'id'    => '24',
+                'title' => 'income_category_edit',
+            ],
+            [
+                'id'    => '25',
+                'title' => 'income_category_show',
+            ],
+            [
+                'id'    => '26',
+                'title' => 'income_category_delete',
+            ],
+            [
+                'id'    => '27',
+                'title' => 'income_category_access',
+            ],
+            [
+                'id'    => '28',
+                'title' => 'expense_create',
+            ],
+            [
+                'id'    => '29',
+                'title' => 'expense_edit',
+            ],
+            [
+                'id'    => '30',
+                'title' => 'expense_show',
+            ],
+            [
+                'id'    => '31',
+                'title' => 'expense_delete',
+            ],
+            [
+                'id'    => '32',
+                'title' => 'expense_access',
+            ],
+            [
+                'id'    => '33',
+                'title' => 'income_create',
+            ],
+            [
+                'id'    => '34',
+                'title' => 'income_edit',
+            ],
+            [
+                'id'    => '35',
+                'title' => 'income_show',
+            ],
+            [
+                'id'    => '36',
+                'title' => 'income_delete',
+            ],
+            [
+                'id'    => '37',
+                'title' => 'income_access',
+            ],
+            [
+                'id'    => '38',
+                'title' => 'expense_report_create',
+            ],
+            [
+                'id'    => '39',
+                'title' => 'expense_report_edit',
+            ],
+            [
+                'id'    => '40',
+                'title' => 'expense_report_show',
+            ],
+            [
+                'id'    => '41',
+                'title' => 'expense_report_delete',
+            ],
+            [
+                'id'    => '42',
+                'title' => 'expense_report_access',
+            ],
+            [
+                'id'    => '43',
                 'title' => 'profile_password_edit',
             ],
         ];
